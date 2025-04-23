@@ -1,0 +1,32 @@
+# Папки и файлы, сгенерированные .NET
+bin/
+obj/
+
+# Файлы конфигурации .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Файлы IDE
+.vs/
+.idea/
+.vscode/
+
+# Файлы операционной системы
+.DS_Store
+Thumbs.db
+
+# Лог-файлы
+*.log
+
+# Папки для кэширования, папки для сборки
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Секреты (например, ключи и пароли)
+*.secrets
+
+# Папки для кэширования сборок
+.vscode/.cache
